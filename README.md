@@ -1,2 +1,2 @@
-# Book-List-App
-Book List App (HTML, CSS, Vanilla Javascript)
+# Book-List-App-Project
+Book List App Project (HTML, CSS, Vanilla Javascript)
